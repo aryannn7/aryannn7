@@ -1,43 +1,63 @@
-### 👋 Hey there, I'm Aryan!
+<h1 align="center">👋 Hey there, I'm Aryan Dhawan!</h1>
 
-**Aspiring Data Engineer | AI & Analytics Enthusiast | Open to Collaborations**
+<p align="center">
+  <strong>Aspiring Data Engineer | AI & Analytics Enthusiast | Building with Purpose</strong>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aryan-dhawan7)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-F2F2F2?style=flat\&logo=google-chrome\&logoColor=blue)](https://bit.ly/aryan-dhawan7-portfolio)
-
----
-
-### 🚀 About Me
-
-I'm Aryan Dhawan, a tech-driven data engineer and machine learning enthusiast passionate about building scalable data systems and applying AI to solve real-world problems. Currently exploring exciting intersections of data, automation, and analytics.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-dhawan7"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/></a>
+  <a href="https://bit.ly/aryan-dhawan7-portfolio"><img src="https://img.shields.io/badge/Portfolio-Live-orange?logo=vercel"/></a>
+</p>
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 About Me
+I'm Aryan Dhawan, a data-driven problem solver and machine learning enthusiast based in Manchester, UK. With a background in data engineering and analytics, I love working at the intersection of data, AI, and automation. I'm passionate about building scalable systems, uncovering insights through ML, and creating tools that make data work smarter for people.
 
-<img src="https://skillicons.dev/icons?i=python,sql,azure,aws,git,github,postgresql,streamlit,scikit-learn,tableau,docker,pytorch,tensorflow" height="30" />
-
----
-
-### 🌟 Featured Projects
-
-| Project                                                                                       | Description                                                                                                                                                                                        | Tech Stack                                                                |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **[JobSnapAI: AI Career Intelligence](https://bit.ly/aryan-dhawan7-portfolio)**               | An AI-powered career analysis platform offering evidence-based skill matching, job readiness scoring, and a GPT-4-enhanced learning recommendation engine. Built with a modular rule-based system. | `Python` · `Streamlit` · `OpenAI API` · `Modular Rule Engine`             |
-| **[FinSight: Financial Analytics & Fraud Detection](https://bit.ly/aryan-dhawan7-portfolio)** | Dashboard identifying fraudulent patterns in over 1,000 transactions using machine learning algorithms and advanced visual analytics.                                                              | `Python` · `Streamlit` · `Pandas` · `Scikit-learn` · `Data Visualization` |
-| **[Customer Churn Prediction Pipeline](https://bit.ly/aryan-dhawan7-portfolio)**              | A machine learning pipeline using ensemble models to predict customer churn, featuring MLOps, PostgreSQL integration, and robust validation strategies.                                            | `Python` · `XGBoost` · `PostgreSQL` · `Feature Engineering` · `MLOps`     |
+Always open to collaborating on impactful data projects!
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryannn7\&show_icons=true\&theme=radical)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
 ---
 
-### 📬 Contact
+## 🌟 Featured Projects
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/aryan-dhawan7)
-* 🌐 [Portfolio](https://bit.ly/aryan-dhawan7-portfolio)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [JobSnapAI: AI Career Intelligence](https://github.com/aryannn7/jobSnapAI-career-intelligence) | AI-powered platform offering skill-gap detection, job readiness scoring, and GPT-4-powered learning suggestions. | Python, Streamlit, OpenAI API, Rule Engine |
+| [FinSight: Fraud Detection Dashboard](https://github.com/aryannn7/FinSight-Fraud-Analytics) | Dashboard for detecting fraud patterns using ML on 1,000+ financial transactions. | Python, Streamlit, Pandas, Scikit-learn |
+| [Customer Churn Prediction Pipeline](https://github.com/aryannn7/Churn-Pipeline) | End-to-end ML pipeline to predict churn using PostgreSQL, XGBoost, and MLOps workflows. | Python, XGBoost, PostgreSQL, MLOps |
 
-Let's connect and build something impactful together!
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryannn7&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannn7&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 🌐 [Portfolio](https://bit.ly/aryan-dhawan7-portfolio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryan-dhawan7)
+
+---
+
+> Let's connect and build something impactful together! 🚀
+> - aryandhawan210@gmail.com
