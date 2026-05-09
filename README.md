@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Aryan Dhawan!</h1>
 
 <p align="center">
-  <strong>Aspiring Data Engineer | AI & Analytics Enthusiast | Building with Purpose</strong>
+  <strong>Aspiring Data and AI Product Engineer | AI & Analytics Enthusiast | Building with Purpose</strong>
 </p>
 
 <p align="center">
