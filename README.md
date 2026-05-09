@@ -39,7 +39,6 @@ Always open to collaborating on impactful data projects!
 |---------|-------------|------------|
 | [JobSnapAI: AI Career Intelligence](https://github.com/aryannn7/jobSnapAI-career-intelligence) | AI-powered platform offering skill-gap detection, job readiness scoring, and GPT-4-powered learning suggestions. | Python, Streamlit, OpenAI API, Rule Engine |
 | [FinSight: Fraud Detection Dashboard](https://github.com/aryannn7/FinSight-Fraud-Analytics) | Dashboard for detecting fraud patterns using ML on 1,000+ financial transactions. | Python, Streamlit, Pandas, Scikit-learn |
-| [Customer Churn Prediction Pipeline](https://github.com/aryannn7/Churn-Pipeline) | End-to-end ML pipeline to predict churn using PostgreSQL, XGBoost, and MLOps workflows. | Python, XGBoost, PostgreSQL, MLOps |
 
 ---
 
@@ -54,7 +53,7 @@ Always open to collaborating on impactful data projects!
 
 ## 📫 Contact
 
-- 🌐 [Portfolio](https://bit.ly/aryan-dhawan7-portfolio)
+- 🌐 [Portfolio](https://aryan-dhawan7-portfolio.lovable.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryan-dhawan7)
 
 ---
