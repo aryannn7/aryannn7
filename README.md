@@ -25,7 +25,7 @@
 
 ---
 
-## Flagship: Known — Live Personality Analytics Platform
+## Flagship: Known: Live Personality Analytics Platform
 
 **Live product:** [known-nine.vercel.app](https://known-nine.vercel.app)
 
