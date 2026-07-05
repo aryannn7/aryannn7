@@ -58,7 +58,7 @@ This is not a tutorial project. It has real users, real data, and improvements s
 ## Selected Projects
 
 ### JobSnapAI — AI Career Intelligence
-**Repo:** [jobSnapAI-career-intelligence](https://github.com/aryannn7/jobSnapAI-career-intelligence)
+**Repo:** [jobSnapAI-career-intelligence](https://github.com/aryannn7/jobsnapai)
 
 Ingests resumes, extracts structured skills using GPT-4 structured outputs, maps them against job requirements and returns prioritised recommendations. Python, LangChain, Streamlit, prompt-engineered rule routing with reproducible JSON outputs.
 
