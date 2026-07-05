@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build production data systems and AI products. Currently building a personality analytics platform used by real users, while finishing my MSc in Manchester.
+  I build production data systems and AI products. Currently building a personality analytics platform with real users, while finishing my MSc in Manchester.
 </p>
 
 <p align="center">
@@ -29,27 +29,27 @@
 
 **Live product:** [known-nine.vercel.app](https://known-nine.vercel.app)
 
-A free, scientifically grounded Big Five personality assessment, built and shipped solo in under two weeks. Live in production with real users completing assessments and real results stored per user.
+A free, scientifically grounded Big Five personality assessment, built and shipped solo in under two weeks. Live in production with real users completing assessments and results persisted per user.
 
 **What it does**
 
-Users complete a 50-item validated assessment (IPIP-50), receive trait scores across the five-factor model with honest, facet-aware interpretations, and can save results for the upcoming AI companion layer.
+Users complete a 50-item validated assessment (IPIP-50), receive trait scores across the five-factor model with honest, facet-aware interpretations, and can save results ahead of the upcoming AI companion layer.
 
 **What I built**
 
-Full-stack product end to end: landing page with conversion-optimised copy, multi-step assessment flow with progress state, scoring engine implementing standard reverse-scoring methodology, results engine with dynamic trait interpretation, email capture and results persistence, three-theme design system with localStorage persistence, SEO layer with Open Graph metadata and sitemap generation.
+Full-stack product end to end: landing page with conversion-focused copy, multi-step assessment flow with progress state, scoring engine implementing standard reverse-scoring methodology, dynamic trait interpretation engine, email capture with results persistence, a three-theme design system persisted via localStorage, and an SEO layer with Open Graph metadata and sitemap generation.
 
 **Stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase (PostgreSQL, Row Level Security) · Vercel
 
 **Why it matters**
 
-This is not a tutorial project. It has real users, real data, iterative improvements shipped from live user feedback, and a roadmap toward an AI reflection companion anchored on each user's trait profile. The repository is private as this is an active commercial product.
+This is not a tutorial project. It has real users, real data, and improvements shipped directly from live user feedback, with a roadmap toward an AI reflection companion anchored on each user's trait profile. The repository is private as this is an active commercial product.
 
 ---
 
 ## Production Experience
 
-**2+ years engineering financial data systems at scale** at Bajaj Finserv: 12+ production pipelines serving millions of records, 99%+ reliability across CI/CD cycles, reconciliation automation in Python, Scala and SQL that reduced data discrepancies by 85%.
+**2+ years engineering financial data systems at scale** at Bajaj Finserv: 12+ production pipelines serving millions of records, 99%+ reliability across CI/CD cycles, and reconciliation automation in Python, Scala and SQL that reduced data discrepancies by 85%.
 
 **AI Product Engineering** at StrataGease (London): cloud-native architecture on AWS for two production SaaS products, RAG pipelines with LangChain, agentic workflows, and analytics tooling that cut manual operations by 50%.
 
@@ -91,10 +91,18 @@ UK-based roles in **AI Engineering**, **Data Engineering**, or **AI Product Engi
 
 ---
 
-## Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryannn7&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryannn7&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryannn7&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannn7&layout=compact&hide_border=true" />
 </p>
 
 ---
