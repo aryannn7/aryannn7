@@ -57,17 +57,18 @@ This is not a tutorial project. It has real users, real data, and improvements s
 
 ## Selected Projects
 
-### JobSnapAI — AI Career Intelligence
+### JobSnapAI: AI Career Intelligence
 **Repo:** [jobSnapAI-career-intelligence](https://github.com/aryannn7/jobsnapai)
 
 Ingests resumes, extracts structured skills using GPT-4 structured outputs, maps them against job requirements and returns prioritised recommendations. Python, LangChain, Streamlit, prompt-engineered rule routing with reproducible JSON outputs.
 
-### FinSight — Fraud Detection Dashboard
+### FinSight: Fraud Detection Dashboard
 **Repo:** [FinSight-Fraud-Analytics](https://github.com/aryannn7/finsight_financial_dashboard)
 
 Real-time anomaly detection on 28,000+ credit card transactions using Isolation Forest, with an interactive analyst dashboard for live flagging and investigation. Python, Scikit-learn, Pandas, Streamlit.
 
-### Ericsson Patent Forecasting — ML Pipeline
+### Ericsson Patent Forecasting: ML Pipeline
+**Repo:** [ML Pipeline fot Insights](https://github.com/aryannn7/ericsoon-patent-forecasting)
 
 Forecast annual patent filings across 50 years of data, achieving 10.9% mean error. Chronological train-test splits, leakage prevention, and model selection favouring genuine out-of-sample generalisation (Random Forest over XGBoost). Python, Scikit-learn.
 
@@ -87,7 +88,11 @@ Forecast annual patent filings across 50 years of data, achieving 10.9% mean err
 
 ## What I'm Looking For
 
-UK-based roles in **AI Engineering**, **Data Engineering**, or **AI Product Engineering** from September 2026. I'm strongest where engineering meets product: building systems that real users touch.
+UK-based roles in **AI Engineering**, 
+**Data Engineering**, 
+or **AI Product Engineering** 
+from September 2026. 
+I'm strongest where engineering meets product: building systems that real users touch.
 
 ---
 
