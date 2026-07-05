@@ -1,170 +1,104 @@
-<h1 align="center">Hi, I'm Aryan Dhawan 👋</h1>
+<h1 align="center">Aryan Dhawan</h1>
 
 <p align="center">
-  <b>Data & AI Engineer | MSc Business Analytics @ University of Manchester | Ex-Financial Data Engineer</b>
+  <b>Data & AI Engineer · MSc Business Analytics @ University of Manchester · Founder of Known</b>
 </p>
 
 <p align="center">
-  I build production-grade data pipelines, ML systems, RAG applications and AI-powered analytics products.
+  I build production data systems and AI products. Currently building a personality analytics platform used by real users, while finishing my MSc in Manchester.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-dhawan7">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://known-nine.vercel.app">
+    <img src="https://img.shields.io/badge/Known-Live_Product-1a1a1a" />
   </a>
   <a href="https://aryan-dhawan7-portfolio.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-orange?logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-View-orange" />
   </a>
   <a href="mailto:aryandhawan210@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## Flagship: Known — Live Personality Analytics Platform
 
-I'm Aryan Dhawan, a Data & AI Engineer based in Manchester, UK.
+**Live product:** [known-nine.vercel.app](https://known-nine.vercel.app)
 
-I have 2+ years of production data engineering experience in financial services, where I built and maintained critical data pipelines across large-scale financial systems. My work has included ETL pipelines, reconciliation automation, SQL/Scala/Python workflows, CI/CD delivery, cloud data platforms and stakeholder-facing analytics.
-
-Currently, I am completing an MSc in Business Analytics: Operational Research & Risk Analysis at the University of Manchester, while building AI-powered products using Python, Streamlit, LangChain, RAG pipelines, GPT-based workflows and cloud infrastructure.
-
-My focus is simple:
-
-> Build reliable data and AI systems that solve real business problems.
-
----
-
-## Core Skills
-
-### Data Engineering
-- Python, SQL, Scala
-- ETL pipelines, reconciliation automation, data validation
-- PostgreSQL, Cosmos DB, Databricks, Azure Data Factory
-- CI/CD, data modelling, production monitoring
-
-### AI & Machine Learning
-- Scikit-learn, XGBoost, Random Forest, Isolation Forest
-- RAG pipelines, LangChain, GPT-4 structured outputs
-- Prompt engineering, AI agents, evaluation workflows
-- Forecasting, anomaly detection, classification, clustering
-
-### Product & Analytics
-- Streamlit dashboards
-- Power BI
-- Business intelligence automation
-- SaaS product analytics
-- User onboarding and conversion tracking
-
----
-
-## Featured Projects
-
-### 1. JobSnapAI — AI Career Intelligence Platform
-
-**Repository:** [JobSnapAI](https://github.com/aryannn7/jobSnapAI-career-intelligence)
-
-AI-powered career intelligence platform that analyses resumes, maps skills against job requirements, detects skill gaps and returns personalised career recommendations.
+A free, scientifically grounded Big Five personality assessment, built and shipped solo in under two weeks. Live in production with real users completing assessments and real results stored per user.
 
 **What it does**
-- Parses resume content
-- Extracts structured skills
-- Compares profile against job requirements
-- Generates job readiness score
-- Provides GPT-powered learning suggestions
-- Presents results through a Streamlit interface
 
-**Tech Stack**
-Python, Streamlit, OpenAI API, LangChain, Rule Engine, Prompt Engineering
+Users complete a 50-item validated assessment (IPIP-50), receive trait scores across the five-factor model with honest, facet-aware interpretations, and can save results for the upcoming AI companion layer.
+
+**What I built**
+
+Full-stack product end to end: landing page with conversion-optimised copy, multi-step assessment flow with progress state, scoring engine implementing standard reverse-scoring methodology, results engine with dynamic trait interpretation, email capture and results persistence, three-theme design system with localStorage persistence, SEO layer with Open Graph metadata and sitemap generation.
+
+**Stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase (PostgreSQL, Row Level Security) · Vercel
 
 **Why it matters**
-Recruiters and candidates both need faster, clearer job-fit analysis. JobSnapAI turns unstructured CV data into structured career recommendations in seconds.
+
+This is not a tutorial project. It has real users, real data, iterative improvements shipped from live user feedback, and a roadmap toward an AI reflection companion anchored on each user's trait profile. The repository is private as this is an active commercial product.
 
 ---
 
-### 2. FinSight — Fraud Detection Analytics Dashboard
+## Production Experience
 
-**Repository:** [FinSight](https://github.com/aryannn7/FinSight-Fraud-Analytics)
+**2+ years engineering financial data systems at scale** at Bajaj Finserv: 12+ production pipelines serving millions of records, 99%+ reliability across CI/CD cycles, reconciliation automation in Python, Scala and SQL that reduced data discrepancies by 85%.
 
-Machine learning dashboard for detecting suspicious financial transactions and visualising fraud risk patterns.
-
-**What it does**
-- Processes transaction data
-- Applies anomaly detection using Isolation Forest
-- Flags high-risk transactions
-- Visualises fraud patterns in an interactive dashboard
-- Supports real-time investigation workflow
-
-**Tech Stack**
-Python, Streamlit, Pandas, Scikit-learn, Isolation Forest
-
-**Why it matters**
-Financial institutions need fast, explainable fraud monitoring. FinSight demonstrates ML-based risk detection with a usable analyst interface.
+**AI Product Engineering** at StrataGease (London): cloud-native architecture on AWS for two production SaaS products, RAG pipelines with LangChain, agentic workflows, and analytics tooling that cut manual operations by 50%.
 
 ---
 
-### 3. Ericsson Patent Forecasting — ML Forecasting Pipeline
+## Selected Projects
 
-Forecasting pipeline for predicting annual patent filing volumes using historical patent data.
+### JobSnapAI — AI Career Intelligence
+**Repo:** [jobSnapAI-career-intelligence](https://github.com/aryannn7/jobSnapAI-career-intelligence)
 
-**What it does**
-- Cleans and structures 50 years of patent filing data
-- Builds forecasting models using Random Forest and XGBoost
-- Applies chronological train-test splitting to avoid leakage
-- Compares global forecasting vs topic-level forecasting
-- Achieves 10.9% mean error using Random Forest
+Ingests resumes, extracts structured skills using GPT-4 structured outputs, maps them against job requirements and returns prioritised recommendations. Python, LangChain, Streamlit, prompt-engineered rule routing with reproducible JSON outputs.
 
-**Tech Stack**
-Python, Pandas, Scikit-learn, Random Forest, XGBoost, Matplotlib
+### FinSight — Fraud Detection Dashboard
+**Repo:** [FinSight-Fraud-Analytics](https://github.com/aryannn7/FinSight-Fraud-Analytics)
 
-**Why it matters**
-This project shows applied ML discipline: time-aware validation, leakage prevention and business-facing forecasting.
+Real-time anomaly detection on 28,000+ credit card transactions using Isolation Forest, with an interactive analyst dashboard for live flagging and investigation. Python, Scikit-learn, Pandas, Streamlit.
+
+### Ericsson Patent Forecasting — ML Pipeline
+
+Forecast annual patent filings across 50 years of data, achieving 10.9% mean error. Chronological train-test splits, leakage prevention, and model selection favouring genuine out-of-sample generalisation (Random Forest over XGBoost). Python, Scikit-learn.
 
 ---
 
-## Currently Building
+## Skills
 
-- AI Business Intelligence Copilot for churn prediction, customer segmentation and RAG-based business Q&A
-- Offline-first RAG system for private document intelligence
-- Production-ready AI workflows for SaaS analytics and automation
+**Languages:** Python · SQL · TypeScript · Scala · R
+
+**AI/ML:** LangChain · RAG pipelines · GPT-4 & Claude APIs · prompt engineering · Scikit-learn · XGBoost · anomaly detection · forecasting
+
+**Data & Cloud:** AWS · Azure · Databricks · Azure Data Factory · PostgreSQL · Supabase · Cosmos DB · Apache Spark · ETL · CI/CD
+
+**Product:** Next.js · React · Tailwind · Vercel · Streamlit · Power BI
 
 ---
 
 ## What I'm Looking For
 
-I'm actively looking for UK-based opportunities in:
-
-- Data Engineering
-- AI Engineering
-- Machine Learning Engineering
-- Analytics Engineering
-- AI Product Engineering
-
-I am especially interested in roles where I can build data platforms, ML pipelines, AI products and decision-support systems for real users.
+UK-based roles in **AI Engineering**, **Data Engineering**, or **AI Product Engineering** from September 2026. I'm strongest where engineering meets product: building systems that real users touch.
 
 ---
 
-## GitHub Stats
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryannn7&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryannn7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryannn7&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
 
-- Portfolio: [aryan-dhawan7-portfolio.lovable.app](https://aryan-dhawan7-portfolio.lovable.app/)
-- LinkedIn: [linkedin.com/in/aryan-dhawan7](https://www.linkedin.com/in/aryan-dhawan7/)
-- Email: [aryandhawan210@gmail.com](mailto:aryandhawan210@gmail.com)
-
----
-
-<p align="center">
-  <b>Open to collaborations, internships, graduate roles and full-time Data/AI Engineering opportunities in the UK.</b>
-</p>
+**Email:** [aryandhawan210@gmail.com](mailto:aryandhawan210@gmail.com) · **LinkedIn:** [aryan-dhawan7](https://www.linkedin.com/in/aryan-dhawan7/) · **Live product:** [known-nine.vercel.app](https://known-nine.vercel.app)
