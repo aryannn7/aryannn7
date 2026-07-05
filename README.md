@@ -63,7 +63,7 @@ This is not a tutorial project. It has real users, real data, and improvements s
 Ingests resumes, extracts structured skills using GPT-4 structured outputs, maps them against job requirements and returns prioritised recommendations. Python, LangChain, Streamlit, prompt-engineered rule routing with reproducible JSON outputs.
 
 ### FinSight — Fraud Detection Dashboard
-**Repo:** [FinSight-Fraud-Analytics](https://github.com/aryannn7/FinSight-Fraud-Analytics)
+**Repo:** [FinSight-Fraud-Analytics](https://github.com/aryannn7/finsight_financial_dashboard)
 
 Real-time anomaly detection on 28,000+ credit card transactions using Isolation Forest, with an interactive analyst dashboard for live flagging and investigation. Python, Scikit-learn, Pandas, Streamlit.
 
