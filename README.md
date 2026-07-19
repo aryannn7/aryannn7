@@ -33,11 +33,11 @@ A free, scientifically grounded Big Five personality assessment, built and shipp
 
 **What it does**
 
-Users complete a 50-item validated assessment (IPIP-50), receive trait scores across the five-factor model with honest, facet-aware interpretations, and can save results ahead of the upcoming AI companion layer.
+Users complete a 50 item validated assessment (IPIP-50), receive trait scores across the five-factor model with honest, facet-aware interpretations, and can save results ahead of the upcoming AI companion layer.
 
 **What I built**
 
-Full-stack product end to end: landing page with conversion-focused copy, multi-step assessment flow with progress state, scoring engine implementing standard reverse-scoring methodology, dynamic trait interpretation engine, email capture with results persistence, a three-theme design system persisted via localStorage, and an SEO layer with Open Graph metadata and sitemap generation.
+Full-stack product end to end: landing page with conversion-focused copy, multi step assessment flow with progress state, scoring engine implementing standard reverse-scoring methodology, dynamic trait interpretation engine, email capture with results persistence, a three-theme design system persisted via localStorage, and an SEO layer with Open Graph metadata and sitemap generation.
 
 **Stack:** Next.js · TypeScript · React · Tailwind CSS · Supabase (PostgreSQL, Row Level Security) · Vercel
 
@@ -103,7 +103,9 @@ I'm strongest where engineering meets product: building systems that real users 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryannn7&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=aryannn7&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Work Ethic" />
+  </a>
 </p>
 
 <p align="center">
