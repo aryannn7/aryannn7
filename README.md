@@ -103,8 +103,7 @@ I'm strongest where engineering meets product: building systems that real users 
 </p>
 
 <p align="center">
-  <a href="https://github.com/aryannn7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryannn7&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/aryannn7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryannn7&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
