@@ -94,7 +94,6 @@ or **AI Product Engineering**
 from September 2026. 
 I'm strongest where engineering meets product: building systems that real users touch.
 
----
 
 <!--GitHub Activity-->
 
