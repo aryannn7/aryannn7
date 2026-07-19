@@ -98,18 +98,18 @@ I'm strongest where engineering meets product: building systems that real users 
 
 ## GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryannn7&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/aryannn7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryannn7&hide_border=true" alt="GitHub Streak" />
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannn7&layout=compact&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
