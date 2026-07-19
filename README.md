@@ -103,7 +103,8 @@ I'm strongest where engineering meets product: building systems that real users 
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryannn7&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Work Ethic" />
+  <a href="https://github.com/aryannn7">
+    <img src="https://img.shields.io/badge/GitHub-View_Activity-181717?logo=github" alt="GitHub Profile" />
   </a>
 </p>
 
