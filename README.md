@@ -141,7 +141,6 @@ I'm strongest where data meets decisions: finding the real problem, building dat
 **UK Graduate visa · no sponsorship needed**
 
 ---
-
 GitHub Activity
 
 <p align="center">
